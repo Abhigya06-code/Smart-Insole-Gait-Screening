@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.db
+*.csv
+calibration.json
+gaitpdb/
+.venv/
